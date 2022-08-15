@@ -1,31 +1,33 @@
-# Sabaak Initiative 💻
+##  المشروع الرابع:  فكّرني 
 
-## What is that ❓
-- It is a programming hackathon that will work on a group of mini-projects under the supervision of seniors in the technical field for follow-up and guidance 💪
 
-## What for 💡
-This initiative is a step toward uniting Muslim programmers from around the world to uphold their faith, make a difference in their societies and reject discrimination and the values imposed by the west through technology.
+ المشروع موجّه الى كبار السنّ ممّن يواجهون مشكلة في نسيان بعض شؤون حياتهم الدينية و الدنيوية.
 
-## How to contribute 🤝
-- If you have already registered for the initiative , then you can safely skip to **Project Submission**
-- If you didn't register yet, it's not late to do that. You can submit your registration through [this form](forms.google.com)
+أهم تحديات المشروع: 
+- اغلب الكبار في السن لا يجيدون القراءة و لا الكتابة (في هذه الحالة سيتوجب التفكير في حلول تعتمد على السمعي من خلال المقاطع الصوتية لقراءة الأذكار و البصري من خلال ايقونات معبرة )
 
-## Project Submission 📋
-- In order to submit your Draft / Final solution , you will need to meet certain conditions :
-1. The project title must contain the team name + the project name.
-2. Only the team leader can submit the solution on behalf of his team members.
-3. You can submit the solution only once, no duplicates are allowed.
-4. The deadline must be respected , any late submissions won't be accepted.
+الجانب الديني :
 
-### How to submit ?
-1. Clone this repository.
-2. Create a new folder wih with the desired team name under the `Projects` directory.
-3. Add your solution .
-4. Create a pull request.
-5. Our responsible will review your submission for any issues.
-6. If your submission meets the conditions, the pull request will be merged and reviewd by our Jury.
+- صعوبة في التعامل مع العديد من التطبيقات لقلة معرفتهم 
+- نسيان مواعيد الأذكار 
+- رغبتهم في ادعية تلائم حالاتهم النفسية
 
-## Reach out to us 📝
-- If you still have any questions , you can reach out to us through [The Algerian Tech Makers Page](https://www.facebook.com/Algeriantechmakersdz2021)
+الجانب الصحي :
 
-### Happy Hacking ^_^
+- نسيان مواعيد اخذ الأدوية 
+- صعوبة التواصل مع طبيبهم،الاسعاف، المستشفى في الحالات الطارئة لصعوبة تعاملهم مع التطبيقات 
+
+
+
+## كيف تساهم في تطوير المشروع : 
+- قم برفع المشروع و ملاحظة مدى التقدم 
+- تواصل معنا عبر صفحتنا او عبر الايمايل الخاص بنا للإستفسار  
+- قم بتطوير الحلول الخاص بك و إرسالها لنا ليتم مراجعتها و تطبيقها 
+## سؤال و جواب : 
+
+### هل يمكنني التغيير في الكود القديم 
+نعم 
+### هل يمكنني البداية في المشروع من جديد
+نعم يمكنك ذلك 
+### هل استطيع ان اضع حلول جديدة و اطور في المشروع اكثر من المطلوب 
+بالتأكيد نعم و يمكنك التواصل معنا لمساعدتك في دراسة الحلول المقترحة منك 
